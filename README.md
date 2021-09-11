@@ -21,10 +21,11 @@ nodejs to build server.
 1. First time clone and extract the project
 2. Open the project with an IDE(webstorm, vscode .....)
 3. In the **terminal** of your ide type **_npm install_**
-4. Create file **_.env_** inside this file add **_PORT=9000_** don't leave any space between PORT(always in capital letters ) and equal
-5. Look for the **TODO** in the project and fill in the tasks(it's very important)
-6. After npm install, type **_npm run nodemon_** to launch the server
-7. Yeah ☺, you did it. Now continue your project.
+4. Create file **_.env_** to the root of the folder, 
+5. inside this file add **_PORT=9000_** don't leave any space between PORT(always in capital letters ) and equal
+6. Look for the **TODO** in the project and fill in the tasks(it's very important)
+7. After npm install, type **_npm run nodemon_** to launch the server
+8. Yeah ☺, you did it. Now continue your project.
 
 ###### **_In Webstorm IDE_**
 
@@ -32,5 +33,7 @@ nodejs to build server.
 2. Copy and paste link (the GitHub of this project: https://github.com/Hacheur-1182/express_api_template.git)
 3. Choose your _directory_ and press _clone_.
 4. Open IDE _**terminal**_ and type **_npm install_** 
-5. After the installation of the packages, Press **_Add Configuration_**, **_Add new_**, npm, scripts and select nodemon.
+5. Create file **_.env_** to the root of the folder, 
+6. inside this file add **_PORT=9000_** don't leave any space between PORT(always in capital letters) and equal
+7. After the installation of the packages, Press **_Add Configuration_**, **_Add new_**, npm, scripts and select nodemon.
 then run the project.
