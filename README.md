@@ -27,8 +27,9 @@ nodejs to build server.
 
 ###### **_in webstorm ide_**
 
-1. press file, new then project from version control
-2. copy and paste link inside the url
-3. choose your directory and press clone
-4. after the process open ide _**terminal**_ and type **_npm install_** 
-5. press **_Add Configuration_**, **_Add new_**, npm, scripts and select nodemon.
+1. Press _file_, _New_ then _project from version control_
+2. Copy and paste link (the GitHub of this project: https://github.com/Hacheur-1182/express_api_template.git)
+3. Choose your _directory_ and press _clone_.
+4. Open IDE _**terminal**_ and type **_npm install_** 
+5. After the installation of the packages, Press **_Add Configuration_**, **_Add new_**, npm, scripts and select nodemon.
+then run the project.
