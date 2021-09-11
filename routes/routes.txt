@@ -1,0 +1,9 @@
+if you want to add another routes,
+
+1. Create your file with .js extension
+2. Import this
+        * const express = require('express');
+        * const router = express.Router();
+3. Don't miss exporting your file
+        * module.exports = router
+4. go to app.js to import you route and reference it
