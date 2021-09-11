@@ -25,7 +25,7 @@ nodejs to build server.
 5. after npm install, type **_npm run nodemon_** to launch the server
 6. yeah ☺, you did it. Now continue your project.
 
-###### **_in webstorm ide_**
+###### **_In Webstorm IDE_**
 
 1. Press _file_, _New_ then _project from version control_
 2. Copy and paste link (the GitHub of this project: https://github.com/Hacheur-1182/express_api_template.git)
